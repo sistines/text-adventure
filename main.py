@@ -12,4 +12,4 @@ class Player(Entity):
         super().__init__()
 
 
-print(f"{author}'s Text Adventure")
+print(f"{author}'s Text Adventure!")
